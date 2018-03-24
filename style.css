@@ -39,13 +39,29 @@ h2{
 	text-align:center;
 
 }
+h3{
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+
+}
 .mail{
 	margin-left: 120px;
 }
 
 .col-4{
-	margin-top:20px;
+	margin-top:50px;
 }
 i{
 	color: #007bff;
+	width: 10px;
+	font-size: 50px;
+	margin-left: 100px;
+	margin-bottom: 20px;
+	
 }
+.seccion1{
+	margin-left: 10px;
+	background-color: #f8f9fa;
+}
+
